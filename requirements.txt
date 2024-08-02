@@ -1,0 +1,5 @@
+ctransformers==0.2.5 (to use langchain we have to use this)
+sentence-transformers==2.2.2
+pinecone-client (to use pinecone database)
+langchain==0.0.225
+flask

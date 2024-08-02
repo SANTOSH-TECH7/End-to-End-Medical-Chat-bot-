@@ -1,2 +1,10 @@
-# End-to-End-Medical-Chat-bot-
-using Llama 2
+# End-to-End-Medical-Chat-bot- using Llama 2
+
+## steps to run the project
+'''bash
+conda create -n mchatbot python=3.8 -y
+'''
+
+'''bash
+conda activate mchatbot
+'''
